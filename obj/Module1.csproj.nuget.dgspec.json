@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/Module1/Module1.csproj": {}
+  },
+  "projects": {
+    "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/Module1/Module1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/Module1/Module1.csproj",
+        "projectName": "Module1",
+        "projectPath": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/Module1/Module1.csproj",
+        "packagesPath": "/Users/geo/.nuget/packages/",
+        "outputPath": "/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/Module1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/geo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
