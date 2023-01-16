@@ -1,0 +1,15 @@
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/bin/Debug/net7.0/Module1
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/bin/Debug/net7.0/Module1.deps.json
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/bin/Debug/net7.0/Module1.runtimeconfig.json
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/bin/Debug/net7.0/Module1.dll
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/bin/Debug/net7.0/Module1.pdb
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/obj/Debug/net7.0/Module1.csproj.AssemblyReference.cache
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/obj/Debug/net7.0/Module1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/obj/Debug/net7.0/Module1.AssemblyInfoInputs.cache
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/obj/Debug/net7.0/Module1.AssemblyInfo.cs
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/obj/Debug/net7.0/Module1.csproj.CoreCompileInputs.cache
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/obj/Debug/net7.0/Module1.dll
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/obj/Debug/net7.0/refint/Module1.dll
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/obj/Debug/net7.0/Module1.pdb
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/obj/Debug/net7.0/Module1.genruntimeconfig.cache
+/Users/geo/Library/CloudStorage/OneDrive-Personal/School/7 Spring 2023/Software Development II/Module1/obj/Debug/net7.0/ref/Module1.dll
